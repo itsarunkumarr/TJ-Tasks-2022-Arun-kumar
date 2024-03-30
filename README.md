@@ -7,3 +7,7 @@ Q1 - power of 2 Algorithm - Using bit manipulation Approach - As we know, a numb
 <img width="960" alt="Q 3" src="https://user-images.githubusercontent.com/94041347/201712266-87ff822a-bdbc-420d-a605-46763431a509.png">
 
 <img width="960" alt="Q 4" src="https://user-images.githubusercontent.com/94041347/201712305-811bb3e3-5c5d-4676-abbc-27b74e273ca8.png">
+
+
+<br> 
+Hello sir
